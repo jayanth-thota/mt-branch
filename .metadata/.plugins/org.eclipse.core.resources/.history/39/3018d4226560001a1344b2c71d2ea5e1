@@ -1,0 +1,5 @@
+package my.spring.project.companyrelated;
+@FeignClient(value = "jcompany" , url ="http://localhost:8039/ipo/")
+public interface JSONCompanyRelatedClient {
+
+}

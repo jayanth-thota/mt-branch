@@ -1,0 +1,5 @@
+package my.spring.project.ipo.pojos;
+
+public class Ipo {
+
+}

@@ -1,0 +1,5 @@
+package my.spring.project.companyrelated;
+
+public interface JSONCompanyRelatedClient {
+
+}
